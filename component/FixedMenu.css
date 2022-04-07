@@ -1,0 +1,6 @@
+div {
+    position: fixed;
+    width: 10%;
+    height: 100%;
+    background: linear-gradient(#E7BF58, #E81C0F);
+}
