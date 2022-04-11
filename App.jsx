@@ -1,10 +1,12 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import { App } from "./component/Index"
-
 import "./public/style/index.css"
+import BP7Dpro from "./Pages/BP7Dpro"
 
 ReactDOM.render(
-    <App />,
+    <BP7Dpro />,
     document.getElementById('root')
 )
+
+
+
