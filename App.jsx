@@ -1,10 +1,11 @@
 import React from "react"
 import ReactDOM from "react-dom"
+import "./App.css"
 import "./public/style/index.css"
-import BP7Dpro from "./Pages/BP7Dpro"
+import Form_Connexion from "./component/Form_connexion"
 
 ReactDOM.render(
-    <BP7Dpro />,
+    <Form_Connexion />,
     document.getElementById('root')
 )
 
