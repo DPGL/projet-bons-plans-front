@@ -1,13 +1,15 @@
 import React from "react"
 import {BuyButton} from "./Button"
-import {FixedMenu} from "./FixedMenu"
+import { Description } from "./Description"
+import { Interest } from "./Interest"
 
 export const App = () => {
     return (
         <div className="main">
-            <FixedMenu />
             <p>salut</p>
             <BuyButton />
+            <Description />
+            <Interest />
         </div>
     )
 }

@@ -1,0 +1,9 @@
+.interest {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 5px solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 190px;
+    grid-gap: 50px;
+}

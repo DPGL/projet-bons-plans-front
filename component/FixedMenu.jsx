@@ -1,8 +1,8 @@
 import React from "react"
 import './FixedMenu.css'
 
-export const BuyButton = () => {
+export const FixedMenu = () => {
     return (
-        <div></div>
+        <div className="menubar"></div>
     )
 }
