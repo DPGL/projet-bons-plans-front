@@ -4,7 +4,7 @@ import logo from '../public/logo.png'
 
 export const Description = () => {
     return (
-        <div>
+        <div className="logo-alldiv">
             <div className="logo-title">
                 <img className="logo" src={logo} />
                 <h2>Institut supérieur de design de Saint-Malo</h2>
