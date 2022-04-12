@@ -2,7 +2,15 @@
     display: flex;
     border: 5px solid;
     border-radius: 10px;
-    width: 400px;
+    width: 380px;
     align-items: center;
     justify-content: center;
+}
+
+.nextPrevBtn {
+    font-size: 64px;
+    cursor: pointer;
+    padding: 0;
+    border: none;
+    background: none;
 }

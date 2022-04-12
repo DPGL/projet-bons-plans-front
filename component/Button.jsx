@@ -12,6 +12,6 @@ export const BuyButton = () => {
     }
 
     return (
-        <button onClick={handleClick}>Acheter</button>
+        <button className="yellowBtn" onClick={handleClick}>Acheter</button>
     )
 }
