@@ -1,0 +1,45 @@
+@font-face {
+    font-family: roboto-light;
+    src: url("../font/Roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: roboto-bold;
+    src: url("../font/Roboto/Roboto-Bold.ttf");
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    bottom: 0;
+    width: 100%;
+}
+
+.blackBar {
+    display: flex;
+    width: 100vw;
+    background-color: black;
+}
+
+.blackBar p {
+    margin-left: 1em;
+    color: white;
+    font-size: 28px;
+}
+
+.mainFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.columnFooter {
+    width: 150px;
+}
+
+.titleFooter p {
+    font-family: roboto-bold;
+}
+
+
+/*# sourceMappingURL=footer.css.map */
