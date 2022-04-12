@@ -1,0 +1,9 @@
+.Description {
+    display: flex;
+    flex-direction: column;
+}
+.Bp4DAnnonceStage {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
