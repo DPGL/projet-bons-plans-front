@@ -11,8 +11,11 @@ export const App = () => {
             <p>salut</p>
             <BuyButton />
             <Description />
+            <h2>Mes centres d’interets</h2>
             <Interest />
+            <h2>Mes annonces</h2>
             <Annonces />
+            <h2>Mes amis</h2>
             <Amis />
         </div>
     )
