@@ -26,6 +26,9 @@ export const App = () => {
                 <h2>Mes amis</h2>
                 <Amis />
             </div>
+            <div>
+                <h2>Mon parrain</h2>
+            </div>
         </div>
     )
 }
