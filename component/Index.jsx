@@ -1,5 +1,7 @@
 import React from "react"
-import {BuyButton} from "./Button"
+import { Amis } from "./Amis"
+import { Annonces } from "./Annonces"
+import { BuyButton } from "./Button"
 import { Description } from "./Description"
 import { Interest } from "./Interest"
 
@@ -10,6 +12,8 @@ export const App = () => {
             <BuyButton />
             <Description />
             <Interest />
+            <Annonces />
+            <Amis />
         </div>
     )
 }
