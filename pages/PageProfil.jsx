@@ -1,10 +1,10 @@
 import React from "react"
-import { Amis } from "./Amis"
-import { Annonces } from "./Annonces"
-import { Description } from "./Description"
-import { Interest } from "./Interest"
-import { RadiantPicture } from "./RadiantPicture"
-import './Index.css'
+import { Amis } from "../component/Amis"
+import { Annonces } from "../component/Annonces"
+import { Description } from "../component/Description"
+import { Interest } from "../component/Interest"
+import { RadiantPicture } from "../component/RadiantPicture"
+import './PageProfil.css'
 
 export const App = () => {
     return (
