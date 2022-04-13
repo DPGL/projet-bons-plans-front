@@ -1,0 +1,57 @@
+
+
+.container_inscription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    width: 50rem;
+    height: 40rem;
+    
+    
+}
+
+.input .name{
+    width: 20rem;
+}
+.field-name{
+    padding-bottom: 1rem;
+    
+    
+}
+
+.field-prenom{
+    padding-bottom: 1rem;
+}
+
+.field-email{
+    padding-bottom: 1rem;
+}
+
+.field-password{
+    padding-bottom: 1rem;
+}
+
+.field-confirm-password{
+    padding-bottom: 2rem;
+}
+
+.field-age{
+    padding-bottom: 1rem;
+}
+
+.field-username{
+    padding-bottom: 1rem;
+}
+
+.field-ecole{
+    padding-bottom: 1rem;
+}
+
+.field-formation{
+    padding: 2rem
+}
+
+
+
