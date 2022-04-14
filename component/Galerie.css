@@ -1,3 +1,7 @@
 .galerie {
     display: flex;
 }
+
+.gal-img {
+    margin-right: 50px;
+}

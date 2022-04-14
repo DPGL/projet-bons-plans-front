@@ -6,7 +6,7 @@ import { Interest } from "../component/Interest"
 import { RadiantPicture } from "../component/RadiantPicture"
 import './PageProfil.css'
 
-export const App = () => {
+export const PageProfil = () => {
     return (
         <div className="main">
             <div>
