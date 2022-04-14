@@ -13,6 +13,7 @@
 }
 
 .form_connexion{
+    border-radius: 0.5rem;
     padding: 2em;
     background-color: black;
 }

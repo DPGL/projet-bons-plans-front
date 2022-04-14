@@ -53,6 +53,7 @@ function Form_Connexion() {
 
   return (
     <div className="container">
+      <img className="Logo_inscription" src="./img/logo.png"></img>
       <form className="form_connexion" onSubmit={handleSubmit}>
         <div className="ui divider"></div>
         <div className="ui form">

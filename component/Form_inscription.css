@@ -59,6 +59,10 @@
 
 .Logo_inscription{
     position: absolute;
-    left: 1rem;
-    top: 1rem;
+    left: 2rem;
+    top: 2rem;
+}
+
+.placeholder{
+     font-family: 'Recursive', sans-serif;;
 }
