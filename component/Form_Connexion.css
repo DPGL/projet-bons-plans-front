@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300&display=swap');
+
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+}
+
+.form_connexion{
+    padding: 2em;
+    background-color: black;
+}
+
+input{
+    border-radius: 0.3rem;
+    height: 2rem;
+    width: 15rem;
+    
+}
+
+.buttons{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button{
+    
+    width: 7rem;
+    height: 2rem;
+    background-color:#EFF307;
+    border-radius: 0.3rem;
+}
+

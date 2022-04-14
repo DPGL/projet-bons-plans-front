@@ -1,0 +1,24 @@
+.Bp4DAnnonce {
+    margin: 2rem 5rem;
+}
+
+.DescriptionBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.DescriptionBlock h3,
+p {
+    max-width: 45%;
+}
+
+.Loyer {
+    margin-right: 30rem;
+    align-items: center;
+}
+
+.VoirIMG img {
+    max-width: 180px;
+    margin: 2rem;
+}
