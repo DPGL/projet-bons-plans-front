@@ -5,7 +5,9 @@ import BP7Dpro from "./Pages/BP7Dpro"
 import Bp4DAnnonceLogement from "./Pages/Bp4DAnnonceLogement"
 
 const App = () => {
-    <BP7Dpro />
+    return(
+    <Bp4DAnnonceLogement />
+    )
 }
 
 ReactDOM.render(

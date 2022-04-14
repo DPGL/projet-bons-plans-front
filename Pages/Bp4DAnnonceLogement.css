@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.Bp4DAnnonceStage {
+.header-body {
     display: flex;
     flex-direction: row;
 }
