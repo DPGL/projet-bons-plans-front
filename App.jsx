@@ -7,7 +7,7 @@ import Form_inscription from "./component/Form_inscription"
 
 const App = () => {
     return (
-        <Form_inscription/>
+        <Form_Connexion/>
     )
 }
 
