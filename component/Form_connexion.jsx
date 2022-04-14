@@ -53,7 +53,7 @@ function Form_Connexion() {
 
   return (
     <div className="container">
-      <form onSubmit={handleSubmit}>
+      <form className="form_connexion" onSubmit={handleSubmit}>
         <div className="ui divider"></div>
         <div className="ui form">
           <p>{formErrors.username}</p>
