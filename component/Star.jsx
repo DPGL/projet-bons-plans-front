@@ -29,7 +29,6 @@ function Star() {
 
   return (
     <div style={styles.container}>
-      <h2> React Ratings </h2>
       <div style={styles.stars}>
         {stars.map((_, index) => {
           return (
