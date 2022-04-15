@@ -1,0 +1,39 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    background: black;
+    align-items: center;
+    width: 10%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    fill: white;
+}
+
+path {
+    fill: white;
+}
+
+.logo {
+    display: flex;
+    margin: 1em;
+    justify-content: center;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-top: 1em;
+    cursor: pointer;
+}

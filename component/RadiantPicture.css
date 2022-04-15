@@ -1,0 +1,15 @@
+.radpict {
+    width: 271.52px;
+    height: 263.04px;
+    left: 569.03px;
+    top: 70px;
+    border-radius: 100%;
+    background: radial-gradient(50% 50% at 50% 50%, #FB8EE9 63.54%, #F9B373 80.73%, #F3FF6A 100%);
+}
+
+.pfp {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

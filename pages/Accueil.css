@@ -1,0 +1,12 @@
+.centered {
+    text-align: center;
+}
+
+.main {
+    background: linear-gradient(180deg, #E7BF58 0%, rgba(238, 199, 82, 0.916667) 8.33%, rgba(250, 211, 73, 0.786458) 21.35%, rgba(239, 114, 43, 0.661458) 33.85%, rgba(230, 30, 17, 0.55) 44.79%, rgba(241, 16, 9, 0.416667) 58.33%, rgba(255, 0, 0, 0.35) 74.48%, rgba(242, 16, 9, 0.22) 88.54%, rgba(232, 28, 15, 0.05) 100%);
+}
+
+.top {
+    background: url("../dist/backgroundAccueil.png");
+    height: 500px;
+}
